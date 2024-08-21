@@ -1,5 +1,5 @@
 {
-    "batVersion": "3.9",
+    "batVersion": "3.10",
     "downloads": {
         "tools": {
             "cli": {
@@ -8,8 +8,8 @@
                 "hash": "4101fb68491f0542ea02f27416c285c6bada1638359b52499ee0edcaf2c95c49"
             },
             "patches": {
-                "fname": "revanced-patches-4.11.0.jar",
-                "link": "https://github.com/ReVanced/revanced-patches/releases/download/v4.13.3/revanced-patches-4.11.0.jar",
+                "fname": "revanced-patches-4.13.3.jar",
+                "link": "https://github.com/ReVanced/revanced-patches/releases/download/v4.13.3/revanced-patches-4.13.3.jar",
                 "hash": "783177c6e9c7ca45d5afdcd0a07290f966172eca0bc17523c50ad7a9b6271aa9"
             },
             "integrations": {
